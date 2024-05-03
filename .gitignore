@@ -1,3 +1,5 @@
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -161,4 +163,4 @@ cython_debug/
 
 # Ignore large files
 #find . -size +100M | cat >> .gitignore
-./Datasets/rating.csv
+rating.csv
