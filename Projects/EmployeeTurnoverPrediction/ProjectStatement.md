@@ -42,7 +42,6 @@ salary - Salary in USD
 
 
 
-
 # What I did in this project:
 1.  Perform data quality checks by checking for missing values if any.
 2.  Understand what factors contributed most to employee turnover by EDA.
@@ -54,7 +53,7 @@ salary - Salary in USD
     2.3 Draw the bar plot of the Employee Project Count of both employees who left and stayed in the organization (use column number_project and hue column left), and give your inferences from the plot.
 3.  Perform clustering of employees who left based on their satisfaction and evaluation
     3.1 Choose columns satisfaction_level, last_evaluation and left
-    3.2 Do K-Means clustering of employees who left the company into 3 clusters?
+    3.2 Do K-Means clustering of employees who left the company into 3 clusters
     3.3 Based on the satisfaction and evaluation factors, give your thoughts on the employee clusters
 
 4.  Handle the left Class Imbalance using the SMOTE technique
